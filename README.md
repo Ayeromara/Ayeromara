@@ -1,6 +1,6 @@
 # Hi, I'm Ayeromara Isaiah 👋
 
-💻 A passionate **Software Engineer** with a love for building scalable apps, and real-time systems.  
+💻 A passionate **Software Engineer** with a love for building scalable web/mobile apps, and real-time systems.  
 
 
 ---
