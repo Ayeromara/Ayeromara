@@ -1,15 +1,15 @@
 # Hi, I'm Ayeromara Isaiah 👋
 
-💻 A passionate **Software Engineer** with a love for building scalable apps, gamified learning platforms, and real-time systems.  
-🎨 I also enjoy experimenting with **graphics design** to bring creativity into tech.  
+💻 A passionate **Software Engineer** with a love for building scalable apps, and real-time systems.  
+
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently working on **QuestED** – a gamified learning app with quizzes, leaderboards, and badges.  
-- 🔧 Building a **real-time judging & voting system** for NESA using **Next.js + Socket.IO**.  
-- 💡 Interested in **React Native, Next.js, Appwrite, Firebase, and real-time chat systems**.  
-- 🎯 Goal: To create engaging digital experiences that blend **learning, fun, and interactivity**.  
+
+- 🧑‍💻 Software Developer specializing in **JavaScript, React, Node.js, React Native, Next.js, and MongoDB**
+- 💡 Always curious about the latest in tech, cloud platforms, and real-time architectures
+- 🌱 Currently focused on building robust solutions and collaborating on open source projects
 
 ---
 
@@ -26,23 +26,9 @@
 
 ---
 
-## 📌 Featured Projects
-- 🎮 [**QuestED**](https://github.com/yourusername/quested): A gamified learning platform with **quizzes, badges, leaderboards, and points system**.  
-- 🗳️ [**NESA Voting System**](https://github.com/yourusername/nesa-voting): A **real-time voting and judging app** using **Next.js + Socket.IO + MongoDB**.  
-- 💬 [**Realtime Chatroom**](https://github.com/yourusername/chatroom): Multi-room chat with **authentication, polls, and persistent history**.  
-
----
-
-## 📊 GitHub Stats
-![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayeromara&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeromara&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourusername)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:youremail@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/isaiah-ayeromara-jesupemi) 
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:isaiahayeromara@gmail.com)  
 
 ---
 
