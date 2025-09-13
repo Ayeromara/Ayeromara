@@ -34,8 +34,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?Ayeromara=Ayeromara&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Ayeromara=Ayeromara&layout=compact&theme=radical)
 
 ---
 
